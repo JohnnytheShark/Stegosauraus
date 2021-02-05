@@ -1,4 +1,4 @@
-# Stegosauraus with Deno
+# Stegosaurus with Deno
 
 ![Tom, the Stegosauraus Mathematician ](./Logo.svg)
 
