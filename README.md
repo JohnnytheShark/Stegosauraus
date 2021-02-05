@@ -1,4 +1,4 @@
-# Stegosaurus with Deno
+git # Stegosaurus with Deno
 
 ![Tom, the Stegosaurus Mathematician ](./Logo.svg)
 
