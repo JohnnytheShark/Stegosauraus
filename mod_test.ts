@@ -1,7 +1,7 @@
 import { assertEquals } from './test_deps.ts';
-import { Stegosauraus } from './mod.ts';
+import { Stegosaurus } from './mod.ts';
 
-const Dino = new Stegosauraus();
+const Dino = new Stegosaurus();
 
 Deno.test("Compute Dividend Sum",()=>{
     assertEquals(Dino.DividendSum([0.41,0.41,0.41,0.41]),1.64)

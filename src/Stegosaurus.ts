@@ -2,7 +2,7 @@
  * @class Triceratop, who said they couldn't do math?
  * 
  */
-export class Stegosauraus {
+export class Stegosaurus {
     /**
      * Dividend Summation 
      * Adds up all the dividends from a given array into a single dollar amount
