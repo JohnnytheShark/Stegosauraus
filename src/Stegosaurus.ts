@@ -1,5 +1,5 @@
 /**
- * @class Triceratop, who said they couldn't do math?
+ * @class Stegosaurus, who said they couldn't do math?
  * 
  */
 export class Stegosaurus {
